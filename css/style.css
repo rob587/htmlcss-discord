@@ -118,6 +118,25 @@ h3{
     font-family: 'Ubuntu';
 }
 
+.ita-flag{
+     width: 35px; 
+     height: 25px; 
+}
+
+.fifth-block{
+    max-width: max-content;
+    margin: 0 auto;
+    padding: 150px;
+    color: white;  
+    
+}
+
+
+.fifth-tt{
+    color: #8fa0e2;
+    font-family: 'Ubuntu';
+}
+
 
 
 header{
@@ -180,7 +199,7 @@ text-align: right;
     padding: 20px;
 }
 .bg-pink{
-background-color: pink;
+/* background-color: pink; */
 }
 
 .bg-pink-2{
@@ -223,7 +242,7 @@ background-color: pink;
 }
 
 footer{
-    background-color: grey;
+    background-color: #22272b;
 }
 
 .top-footer{
