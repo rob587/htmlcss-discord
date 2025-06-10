@@ -51,6 +51,22 @@
       font-size: 18px;
 }
 
+.content-description{
+    margin: 42px;
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Ubuntu';
+}
+
+.h2-sub{
+   margin-top:30px ;
+    font-size: 25px;
+    font-family: 'Ubuntu';
+
+}
+
 header{
     background-color: #3061e0;
     padding: 10px 0px;
@@ -111,7 +127,7 @@ text-align: right;
     padding: 20px;
 }
 
-.bg-pink{
+.bg-pink-2{
     background-color: pink;
 }
 
@@ -120,8 +136,10 @@ text-align: right;
     background-size: cover;
 }
 .bg-blue-1{
-    background-color: blue;
-    
+    background-image: url(/img/item1.svg);
+    background-size: cover;
+  
+
 }
 .bg-blue-2{
     background-color: blue;
