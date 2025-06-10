@@ -87,6 +87,39 @@ h2{
     font-family: 'Ubuntu';
 }
 
+.fourth-block{
+    text-align: center;
+}
+
+img{
+    max-width:600px ;
+}
+
+.fourth-title, .fourth-description{
+    color: black;
+    font-family: 'Ubuntu';
+}
+
+.second-button{
+    padding: 20px;
+    border-radius: 20px;
+    padding: 15px 20px 15px 20px;
+    border: transparent;
+    background-color: #8fa0e2;
+    color: white; 
+    font-family: 'Ubuntu'; 
+
+}
+
+
+
+h3{
+       color: black;
+    font-family: 'Ubuntu';
+}
+
+
+
 header{
     background-color: #3061e0;
     padding: 10px 0px;
@@ -204,8 +237,9 @@ footer{
 }
 
 .bg-green{
-    background-color: green;
+    /* background-color: green; */
 }
+
 
 .justify-content-between{
     justify-content: space-between;
@@ -216,16 +250,12 @@ footer{
 }
 
 .bg-grey{
-    background-color: rgb(80, 76, 76);
+    /* background-color: rgb(80, 76, 76); */
 }
 
 .bg-grey::before{
     background-image: url(/img/wave.svg);
-    
-    
-    
-   
-    
+ 
 }
 
 
