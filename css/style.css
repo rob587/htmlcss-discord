@@ -173,6 +173,7 @@ background-color: pink;
     /* background-color: blue; */
     background-image: url(/img/item3.svg);
     background-size:cover;
+    margin: 25px;
 }
 
 .py-20{
@@ -215,7 +216,12 @@ footer{
 }
 
 .bg-grey{
+    background-color: rgb(80, 76, 76);
+}
+
+.bg-grey::before{
     background-image: url(/img/wave.svg);
+    
     
     
    
