@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.container-sm{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: lightblue;
+    padding: 10px 0px;
+}
+
+.col-20{
+    width: 20%;
+}
+
+.col-40{
+   width: 40%;
+   height: 500px; 
+}
+
+
+.col-60{
+    width: 60%;
+}
+
+.col-100{
+    width: 100%;
+    height: 500px;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.border-black{
+    border: 1px solid black
+}
+
+ul{
+    list-style: none;
+}
+
+header ul{
+    display: flex;
+    justify-content: center;
+}
+
+header ul li{
+    margin: 0px 15px;
+}
+
+.text-right{
+text-align: right;
+}
+
+.p-20{
+    padding: 20px;
+}
+
+.bg-pink{
+    background-color: pink;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.py-20{
+    padding: 20px ;
+}
+
+.my-50{
+    margin: 50px auto;
+}
+
+.col-15{
+    width: 15%;
+    height: 500px;
+}
+
+footer{
+    background-color: grey;
+}
+
+.top-footer{
+    padding-top:10px ;
+    padding-bottom: 30px;
+    border-bottom: 1px solid lightgray;
+}
+
+.bottom-footer{
+    padding-bottom: 20px;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.bg-cyan{
+    background-color: cyan;
+}
+
