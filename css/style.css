@@ -67,6 +67,17 @@ h2{
 
 }
 
+.second-block{
+    margin: 50px;
+    font-family: 'Ubuntu';
+}
+
+.description{
+    margin-top: 50px;
+    font-size: 24px;
+
+}
+
 header{
     background-color: #3061e0;
     padding: 10px 0px;
@@ -126,10 +137,15 @@ text-align: right;
 .p-20{
     padding: 20px;
 }
+.bg-pink{
+background-color: pink;
+}
 
 .bg-pink-2{
-    background-color: pink;
+    background-image: url(/img/item2.svg);
+    background-size: cover;
 }
+
 
  .bg-blue{ 
     background-image: url(/img/jumbo.png);
@@ -141,9 +157,9 @@ text-align: right;
   
 
 }
-.bg-blue-2{
+/* .bg-blue-2{ 
     background-color: blue;
-}
+}*/
 .bg-blue-3{
     background-color: blue;
 }
@@ -186,4 +202,11 @@ footer{
 .bg-cyan{
     background-color: cyan;
 }
+
+.bg-grey{
+    background-image: url(/img/wave.svg);
+   
+    
+}
+
 
