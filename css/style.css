@@ -16,7 +16,7 @@
 }
 
 header{
-    background-color: lightblue;
+    background-color: #3061e0;
     padding: 10px 0px;
 }
 
@@ -39,12 +39,12 @@ header{
     height: 500px;
 }
 
-.bg-orange{
-    background-color: orange;
-}
 
-.border-black{
-    border: 1px solid black
+
+.padding-7{
+    padding: 15px;
+    border-radius: 30px;
+    border: transparent;
 }
 
 ul{
@@ -58,6 +58,12 @@ header ul{
 
 header ul li{
     margin: 0px 15px;
+}
+
+li{
+    color: white;
+    font-family:'Ubuntu';
+    font-size: 20px;
 }
 
 .text-right{
